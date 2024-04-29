@@ -1,3 +1,5 @@
 # hello-world
 "This repository is for practising the GitHub Flow."
-I am Samuel Macharia, freelance and veteran
+#about me
+My name is Samuel Macharia
+Mechanic and veteran
